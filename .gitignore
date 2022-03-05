@@ -1,0 +1,5 @@
+# project compile target folder
+target
+
+# IDE project properties
+.idea
